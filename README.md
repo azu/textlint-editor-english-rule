@@ -2,7 +2,7 @@
 
 [textlint editor](https://github.com/textlint/editor)'s rule for englight
 
-- <https://azu.github.io/textlint-editor-example/>
+- <https://azu.github.io/textlint-editor-english-rule/>
 
 ## Changelog
 
