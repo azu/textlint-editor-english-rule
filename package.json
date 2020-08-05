@@ -14,10 +14,10 @@
   "license": "MIT",
   "author": "azu",
   "scripts": {
-    "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder 'It isnt not valid txt.'"
+    "website": "textlint-website-generator --outputDir public --title 'textlint editor demo' --placeholder 'It isnt not valid txt.' --metadataName \"textlint-editor-english-rule\" --metadataNamespace https://github.com/azu"
   },
   "dependencies": {
-    "@babel/core": "^7.11.0",
+    "@babel/core": "^7.11.1",
     "@textlint/compiler": "^0.6.0",
     "dictionary-en": "^3.0.1",
     "rimraf": "^3.0.2",
@@ -28,6 +28,6 @@
     "textlint-rule-spelling": "^0.2.0"
   },
   "devDependencies": {
-    "@textlint/website-generator": "^0.6.0"
+    "@textlint/website-generator": "^0.7.0"
   }
 }
